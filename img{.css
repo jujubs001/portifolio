@@ -1,0 +1,11 @@
+img{
+    width: 500px;
+    aspect-ratio: 16/9;
+    border-radius: 20pt;
+    filter: blur(15px);
+    transition: 2s;
+}
+img{
+    filter: blur(0px);
+    transition: 2s;
+}
